@@ -19,10 +19,6 @@ Node.js runs JavaScript outside the browser; npm manages packages.
 node -v
 npm -v
 
-yaml
-Kopieren
-Bearbeiten
-
 You should see version numbers printed (e.g. `v18.x.x` and `9.x.x`).
 
 ---
